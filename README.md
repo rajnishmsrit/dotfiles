@@ -6,4 +6,7 @@ My Dotfiles
 - [ ] Docker
 - [ ] Vim
 - [ ] Tmux
-
+- [ ] Bash shortcuts
+- [ ] MySQL
+- [ ] Apache conf
+- [ ] Git shortcuts
