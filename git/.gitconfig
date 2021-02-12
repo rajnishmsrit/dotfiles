@@ -1,0 +1,8 @@
+[user]
+	name = Rajnish Kumar
+	email = rajnishmsrit@gmail.com
+[alias]
+[color]
+	ui = auto
+[diff]
+	tool = meld
