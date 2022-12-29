@@ -1,5 +1,6 @@
 alias growth="cd ~/Documents/growth";
 alias dotfiles="cd ~/Documents/growth/github/dotfiles";
+alias mynextapp="cd ~/Documents/growth/github/mynextapp";
 alias github="cd ~/Documents/growth/github";
 alias localwork="cd ~/Documents/growth/localwork";
 alias repos="cd ~/Documents/growth/repos";
