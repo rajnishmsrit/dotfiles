@@ -1,7 +1,7 @@
-# # If not running interactively, do not do anything
-# [[ $- != *i* ]] && return
-# # Otherwise start tmux
-# [[ -z "$TMUX" ]] && exec tmux
+# If not running interactively, do not do anything
+[[ $- != *i* ]] && return
+# Otherwise start tmux
+[[ -z "$TMUX" ]] && exec tmux
 
 # alias crun=crun_file
 # function crun_file {
