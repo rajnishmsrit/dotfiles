@@ -5,3 +5,7 @@ alias github="cd ~/Documents/growth/github";
 alias localwork="cd ~/Documents/growth/localwork";
 alias repos="cd ~/Documents/growth/repos";
 alias work="cd ~/Documents/work";
+
+function gitconfigupdate(){
+    git config user.name "Rajnish Kumar" && git config user.email rajnishmsrit@gmail.com
+}
