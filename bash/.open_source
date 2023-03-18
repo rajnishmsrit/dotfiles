@@ -1,0 +1,5 @@
+# For top 10 most edited files
+alias gfindten="git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -10";
+
+# For top 50 most edited files with file_name/directory_name containing the word - NAME
+alias gfindfifty="git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -50 | grep $1";

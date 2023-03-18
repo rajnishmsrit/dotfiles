@@ -11,3 +11,7 @@
 if [ -f ~/Documents/growth/github/dotfiles/bash/.bash_shortcuts ]; then
     . ~/Documents/growth/github/dotfiles/bash/.bash_shortcuts
 fi
+
+if [ -f ~/Documents/growth/github/dotfiles/bash/.open_source ]; then
+    . ~/Documents/growth/github/dotfiles/bash/.open_source
+fi
