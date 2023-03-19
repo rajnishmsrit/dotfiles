@@ -1,6 +1,7 @@
 alias growth="cd ~/Documents/growth";
 alias dotfiles="cd ~/Documents/growth/github/dotfiles";
 alias jsserver="cd ~/Documents/growth/github/jsserver";
+alias notes="cd ~/Documents/growth/github/notes";
 alias learningtrack="cd ~/Documents/growth/github/learningtrack";
 alias rajnishmsrit="cd ~/Documents/growth/github/rajnishmsrit";
 alias obsper="cd ~/Documents/growth/github/obsidian-personal";
