@@ -3,3 +3,8 @@ alias gfindten="git log --pretty=format: --name-only | sort | uniq -c | sort -rg
 
 # For top 50 most edited files with file_name/directory_name containing the word - NAME
 alias gfindfifty="git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -50 | grep $1";
+
+# Change past git commits
+# git filter-branch -f --env-filter \
+# "GIT_AUTHOR_NAME='Newname'; GIT_AUTHOR_EMAIL='newemail'; \
+# GIT_COMMITTER_NAME='committed-name'; GIT_COMMITTER_EMAIL='committed-email';" HEAD
